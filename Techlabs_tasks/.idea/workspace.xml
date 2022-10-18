@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b1acd7d-05f4-4c3e-9b51-c9286fc34ef3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Udemy_python_Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.3exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.4_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.5_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.1_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.2.1_Final calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.2_exercise_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.1_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.2_exercise_guess_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12.2_guessGame_usingFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13.1_debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13.2_debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13.3_debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_exercise_debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14.1_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.2_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.3_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.5.b_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.5_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.6_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.1_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.2_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.4_eercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.5_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.1_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.2_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.3_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.4_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.5_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.1_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.2_exercise.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6.3_exercise_final.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.1_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.21_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.0_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.1_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.2_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8.3_exercise_CaesarCipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.1_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.3_exercise_BlindAuction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachine_OOP/.idea/CoffeeMachine_OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Techlabs_tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../art_blackJack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../art_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../art_guessGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clear_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-16-start/.idea/day-16-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-16-start/another_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-16-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-17-start/.idea/day-17-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-17-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/.idea/day-18-Turtle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/Hirst-Painting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/Hirst-Painting/.idea/Hirst-Painting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/Hirst-Painting/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/Hirst-Painting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/Hirst-Painting/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/Hirst-Painting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/Hirst-Painting/drawing_Dots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/Hirst-Painting/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/hoeToUseRandomColour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/turtle_Dashed_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/turtle_Random walk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/turtle_allShapesOnOneSide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/turtle_pentagon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/turtle_spirograph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-Turtle/turtle_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-19_20_21snake_game/.idea/day-19_20_21snake_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-19_20_21snake_game/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-19_20_21snake_game/main_paddle_ame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-19_20_21snake_game/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-19_20_21snake_game/pong_scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-capstone/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-capstone/.idea/day-23-capstone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-capstone/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-capstone/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-capstone/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-capstone/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/.idea/day-24-read_write_file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/24.2_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/Mail Merge Project Start/.idea/Mail Merge Project Start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/main_filehandleExplain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/my_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/my_file_ashwin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-24-read_write_file/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/.idea/day-25-read_csvFiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/new_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/read_squirrelDaa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/squirrel_count" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/us-states-game-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/us-states-game-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/us-states-game-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/us-states-game-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/us-states-game-start/.idea/us-states-game-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/us-states-game-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/us-states-game-start/50_states.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/us-states-game-start/blank_states_img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/us-states-game-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-25-read_csvFiles/weather_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/.idea/day-26-ListComprehension.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/26.1_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/26.2_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/26.3_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/26.4_generate_random_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/26.4b_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/listComprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-26-ListComprehension/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game_data_14exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/calculate_money.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/calculate_resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/data_coffeeType.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz_game_start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz_game_start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz_game_start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz_game_start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz_game_start/.idea/quiz_game_start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz_game_start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trial.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28Ix41SfnsiJiRdXVxmc8hZqB5V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day-26-ListComprehension" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Techlabs_tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b1acd7d-05f4-4c3e-9b51-c9286fc34ef3" name="Changes" comment="" />
+      <created>1650917706582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650917706582</updated>
+    </task>
+    <servers />
+  </component>
+</project>
